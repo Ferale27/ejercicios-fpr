@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Editor de Spyder
-
-Este es un archivo temporal.
-"""
-
 import random
 
 eleccionOrdenador = random.randint(1, 3)
@@ -28,4 +21,5 @@ if eleccionUsuario == "piedra" or eleccionUsuario == "papel" or eleccionUsuario 
         
     print(f"El ordenador ha elegido {eleccionOrdenador} y el usuario {eleccionUsuario}. {resultado}")
 else:
+
     print("La palabra indicada no es válida. El programa se ha terminado")
