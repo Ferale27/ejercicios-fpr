@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Oct  7 10:04:02 2025
-
-@author: AGILMAR1
-"""
-
 import turtle
 
 turtle.up()
@@ -20,4 +13,5 @@ for j in range(2):
         else: turtle.color('red')
         turtle.forward(i*10)
         turtle.left(90)
+
 turtle.done()
