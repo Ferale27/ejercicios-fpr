@@ -10,7 +10,7 @@ El principal objetivo de este espacio es **compartir y discutir** las soluciones
 
 * **Aprender Haciendo:** Revisa las soluciones para **entender** cómo se aplican los conceptos teóricos de la programación.
 * **Colaboración:** Si encuentras un error, una solución más eficiente o quieres añadir tu propio enfoque, ¡las contribuciones son bienvenidas!
-* **Advertencia:** **¡ESTE NO ES UN RECURSO PARA COPIAR!** Utilízalo como apoyo para el estudio y la verificación de tus propios ejercicios. El buen aprendizaje se basa en el esfuerzo personal.
+* **Advertencia:** **⚠️¡ESTE NO ES UN RECURSO PARA COPIAR!⚠️** Utilízalo como apoyo para el estudio y la verificación de tus propios ejercicios. El buen aprendizaje se basa en el esfuerzo personal.
 
 ## 📁 Estructura y Contenido
 
