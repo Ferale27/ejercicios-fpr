@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Editor de Spyder
-
-Este es un archivo temporal.
-"""
-
 import turtle
 
 circulos = int(input('Introduce el número de círculos: '))
@@ -15,4 +8,5 @@ for i in range(circulos):
     else: turtle.color('red')
     turtle.circle(100)
     turtle.right(360/circulos)
+
 turtle.done()
